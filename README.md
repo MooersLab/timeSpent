@@ -57,7 +57,7 @@ Remember to store the link the the notebook in the browser toolbar or a link in 
 
 ## How to analyze
 
-Edit the path to the exported csv file in the above Python Script.
+Edit the path to the exported csv file in the above Python Script, extractTime.py and edit the list of Project IDs to suit your needs.
 Read the comments of the script for more instructions.
 
 
