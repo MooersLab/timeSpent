@@ -25,7 +25,7 @@ I tried this approach for about a year.
 
 4. Use Google Sheets with one sheet per month and one workbook per year. The event are entered as they happen. The cells are coded to converted start and end times into hours represened by real numbers. Each event is has a project code. The worksheet is exported to a csv file at the end of the month and a Python script is used to filter and sum the time expended by certain clusters of projects. A store the link to the Google Sheet workbook in the toolber of my browser for rapid access. The workbook pops up much faster than iCal, gCal or Excel.
 
-I started this approach in May 2022. I have been using it daily. It is vastly faster and superior to the first three approaches.
+I started the fourth approach in May 2022. I have been using it daily. It is vastly faster and superior to the first three approaches and it is not limited by number of projects.
 
 ## How to use
 
@@ -39,6 +39,7 @@ You can edit the times to match when you commuted.
 Insert more rows between the commute rows as the need arises through the day.
 The events are stored in chronological order as they occur.
 If I work on one project in two different time blocks, these get separate entries because I want to document the start and end times separately.
+
 I update the sheet after finishing effort on a project.
 Take care not to fall behind.
 It is a pain to catch up.
@@ -51,6 +52,8 @@ I post about this system later.
 
 I track events in increments of 15 minutes.
 If there are a bunch of short and releated events, they may be lumped together.
+
+Remember to store the link the the notebook in the browser toolbar or a link in a private HTML file for rapid access.
 
 
 
