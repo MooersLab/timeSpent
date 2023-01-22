@@ -55,5 +55,9 @@ If there are a bunch of short and releated events, they may be lumped together.
 
 Remember to store the link the the notebook in the browser toolbar or a link in a private HTML file for rapid access.
 
+## How to analyze
+
+Edit the path to the exported csv file in the above Python Script.
+Read the comments of the script for more instructions.
 
 
