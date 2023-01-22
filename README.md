@@ -23,7 +23,7 @@ In additon, Org files with more than 10,000 lines tend to become difficult to sc
 You can fold up cluters of project and the folded information is prone to being accidently deleted.
 I tried this approach for about a year.
 
-4. Use Google Sheets with one sheet per month and one workbook per year. The event are entered as they happen. The cells are coded to converted start and end times into hours represened by real numbers. Each event is has a project code. The worksheet is exported to a csv file at the end of the month and a Python script is used to filter and sum the time expended by certain clusters of projects. A store the link to the Google Sheet workbook in the toolber of my browser for rapid access. The workbook pops up much faster than iCal, gCal or Excel.
+4. ***Use Google Sheets with one sheet per month and one workbook per year.*** The event are entered as they happen. The cells are coded to converted start and end times into hours represened by real numbers. Each event is has a project code. The worksheet is exported to a csv file at the end of the month and a Python script is used to filter and sum the time expended by certain clusters of projects. A store the link to the Google Sheet workbook in the toolber of my browser for rapid access. The workbook pops up much faster than iCal, gCal or Excel.
 
 I started the fourth approach in May 2022. I have been using it daily. It is vastly faster and superior to the first three approaches and it is not limited by number of projects.
 
